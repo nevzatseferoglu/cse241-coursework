@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"Board","l":"AbstractBoard"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"Board","l":"BoardArray1D"},{"p":"Board","l":"BoardArray2D"},{"p":"Board","l":"BoardGlobal"},{"p":"Board","l":"ConstantBoardProperty"},{"p":"<Unnamed>","l":"Main"}]
